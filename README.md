@@ -1,5 +1,5 @@
 _This repo is archived. If you are looking for the latest, check out [open-sauced/insights](https://github.com/open-sauced/insights) or [open-sauced/hot](https://github.com/open-sauced/hot)._
-<div>
+<div align="center">
   <h1>6510110510 Adithep Baebmuean</h1>
 </div>
 <div align="center">
